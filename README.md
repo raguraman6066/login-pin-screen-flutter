@@ -1,16 +1,4 @@
 # loginpinscreen
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/54672146/196375951-eb1b20d8-5b99-45b6-921f-9847f1efe1f0.png)
+![image](https://user-images.githubusercontent.com/54672146/196376049-43fe9d03-086e-4237-b6ee-c1b32984bf7e.png)
